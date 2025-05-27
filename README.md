@@ -1,0 +1,1 @@
+A modular, object-oriented Parking Lot System designed using SOLID principles and built for extensibility and scalability. This project simulates real-world parking lot operations including vehicle entry/exit, ticketing, fee calculation, and space management.
